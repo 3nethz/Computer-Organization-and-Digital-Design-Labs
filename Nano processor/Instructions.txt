@@ -1,0 +1,1 @@
+Program counter cannot stop. It runs again from 0 to 7 after ending the intructions in program ROM.
